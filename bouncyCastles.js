@@ -40,8 +40,6 @@ const totalVolume = function (solids) {
 
 }
 
-
-
 const largeSphere = {
   type: 'sphere',
   radius: 40
